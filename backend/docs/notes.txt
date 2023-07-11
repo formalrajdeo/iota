@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+-------------------------------------------------------------------------------
+
+Project Task Description
+
+1. Create a login page(both API and UI). Use crypto-js package to encryption and decryption request and response. For authenticate use SQL DB. eg:  userid:hdfc@abcd.com, password:Exrgo@12345
+
+2. Fetch the data use Nosql DB and show in dashboard page(only logged in user can view dashboard).Use crypto-js package to encryption and decryption request and response.
+
+Note: Make UI design simple.
+
+-------------------------------------------------------------------------------
